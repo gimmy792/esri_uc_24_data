@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"name": "BBOX",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 13.746026740197103, 44.78350109345691 ], [ 14.041197505988805, 44.78350109345691 ], [ 14.041197505988805, 44.940691052754794 ], [ 13.746026740197103, 44.940691052754794 ], [ 13.746026740197103, 44.78350109345691 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","name":"BBOX","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"Polygon","coordinates":[[[15.793149699658711,41.83535535346888],[16.088320465450415,41.83535535346888],[16.088320465450415,41.99254531276676],[15.793149699658711,41.99254531276676],[15.793149699658711,41.83535535346888]]]}}]}
