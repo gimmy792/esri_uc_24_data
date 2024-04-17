@@ -9,7 +9,7 @@
 				"coordinates" : [ 12.216282, 46.166888 ]
 			},
 			"properties" : {
-				"name" : "Belluno - Monte Sesrva",
+				"webcam_name" : "Belluno - Monte Sesrva",
 				"webcam_link" : "https://it.worldcam.eu/webcams/europe/italy/8420-belluno-monte-sesrva"
 			}
 		},
@@ -20,7 +20,7 @@
 				"coordinates" : [ 12.3052146, 46.2039891 ]
 			},
 			"properties" : {
-				"name" : "Soverzene - Vista panoramica",
+				"webcam_name" : "Soverzene - Vista panoramica",
 				"webcam_link" : "https://it.worldcam.eu/webcams/europe/italy/29897-soverzene-vista-panoramica"
 			}
 		}
